@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.soundboard.MainActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="2dp"
+    android:paddingBottom="2dp"
+    android:layout_weight="1"
+    android:weightSum="12"
+    >
+
+    <!-- a lot of buttons -->
+
+    <!-- row 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/ethan_bradberry"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_ethanBradberry"
+            />
+
+        <Button
+            android:text="@string/shut_the_fuck_up"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_stfu"
+            />
+
+        <Button
+            android:text="@string/HaHa"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/button_haha"
+            />
+
+    </LinearLayout>
+
+    <!-- row 2 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/oh_now_i_get_it"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_ohNowIGetIt"
+            />
+
+        <Button
+            android:text="@string/what_the_fuck"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_whatTheFuck"
+            />
+
+        <Button
+            android:text="@string/lying"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_whyTheFuckULyin"
+            />
+
+    </LinearLayout>
+
+    <!-- row 3 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/why_you_haff_be_mad"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_whyYouHeffBeMad"
+            />
+
+        <Button
+            android:text="@string/nigga_you_gay"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_niggaYouGay"
+            />
+
+        <Button
+            android:text="@string/hit_marker"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_hitMarker"
+            />
+
+    </LinearLayout>
+
+    <!-- row 4 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/its_a_trap"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_itsATrap"
+        />
+
+        <Button
+            android:text="@string/shut_up_and_take_my_money"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_shutUpAndTakeMyMoney"
+            />
+
+        <Button
+            android:text="@string/_smoke_weed"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_smokeWeedEveryDay"
+            />
+
+    </LinearLayout>
+
+    <!-- row 5 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/stop"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_stop"
+            />
+
+        <Button
+            android:text="@string/wow"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_wow"
+            />
+
+        <Button
+            android:text="@string/twenty_one"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_twentyOne"
+            />
+
+    </LinearLayout>
+
+    <!-- row 6 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/Surprise_Mother_fucker"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_surpriseMotherFucker"
+            />
+
+        <Button
+            android:text="@string/another_one"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_anotherOne"
+            />
+
+        <Button
+            android:text="@string/damn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_daaamn"
+            />
+
+    </LinearLayout>
+
+    <!-- row 7 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/hoopla"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_hoopla"
+            />
+
+        <Button
+            android:text="@string/dontGetIt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_i_dont_get_it"
+            />
+
+        <Button
+            android:text="@string/dontNeedIt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_i_dont_need_it"
+            />
+
+    </LinearLayout>
+
+    <!-- row 8 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/myLeg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_my_leg"
+            />
+
+        <Button
+            android:text="@string/niggaHush"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_nigga_hush"
+            />
+
+        <Button
+            android:text="@string/soiledIt"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_soiled_it"
+            />
+
+    </LinearLayout>
+
+    <!-- row 9 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+    <Button
+        android:text="@string/LoadOfBarnacles"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/button_loadOfBarnacles"
+        />
+
+    <Button
+        android:text="@string/tight"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/button_tight"
+        />
+
+    <Button
+        android:text="@string/wereWaiting"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/button_wereWaiting"
+        />
+
+    </LinearLayout>
+
+    <!-- Row 10 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/pinhead"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_pinhead"
+            />
+
+        <Button
+            android:text="@string/okaaay"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_okay"
+            />
+
+        <Button
+            android:text="@string/yeaaah"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_yeaaah"
+            />
+
+    </LinearLayout>
+
+    <!-- Row 11 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        >
+
+        <Button
+            android:text="@string/whaaat"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_whaaat"
+            />
+
+        <Button
+            android:text="@string/stop_sounds"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button32"
+            />
+
+        <Button
+            android:text="@string/ding"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/button_ding"
+            />
+
+    </LinearLayout>
+
+    <!-- Ad -->
+    <!-- Ad unit name - Main Page Bottom -->
+    <com.google.android.gms.ads.AdView
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:id="@+id/adView"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        >
+
+    </com.google.android.gms.ads.AdView>
+
+</LinearLayout>

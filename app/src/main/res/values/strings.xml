@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Ad string -->
+    <string name="banner_ad_unit_id">ca-app-pub-9448883380577338/1389365007</string>
+
+    <!-- app name -->
+    <string name="app_name">Buffet\'s: Meme Soundboard</string>
+
+    <!-- Button Name Strings -->
+    <string name="HaHa">A Ha Ha</string>
+    <string name="ethan_bradberry">Bradberry</string>
+    <string name="shut_the_fuck_up">STFU</string>
+    <string name="oh_now_i_get_it">Now I Get It</string>
+    <string name="what_the_fuck">WTF</string>
+    <string name="lying">lying</string>
+    <string name="why_you_haff_be_mad">y u mad</string>
+    <string name="nigga_you_gay">You Gay</string>
+    <string name="hit_marker">Hit Marker</string>
+    <string name="its_a_trap">It\'s a Trap</string>
+    <string name="shut_up_and_take_my_money">my Money</string>
+    <string name="_smoke_weed">smoke weed</string>
+    <string name="stop">stop</string>
+    <string name="wow">wow</string>
+    <string name="twenty_one">21</string>
+    <string name="Surprise_Mother_fucker">Surprise</string>
+    <string name="another_one">Another 1</string>
+    <string name="damn">Daaamn</string>
+    <string name="hoopla">Hoopla</string>
+    <string name="dontGetIt">don\'t get it</string>
+    <string name="dontNeedIt">Don\'t Need It</string>
+    <string name="myLeg">My Leg</string>
+    <string name="niggaHush">Hush</string>
+    <string name="soiledIt">Soiled</string>
+    <string name="LoadOfBarnacles">Barnacles</string>
+    <string name="tight">Tight</string>
+    <string name="wereWaiting">Waiting</string>
+    <string name="pinhead">Pinhead</string>
+    <string name="ding">ding</string>
+    <string name="whaaat">whaaat</string>
+    <string name="yeaaah">yeaaah</string>
+    <string name="okaaay">okaaay</string>
+    <string name="stop_sounds">[ -blank- ]</string>
+
+</resources>
